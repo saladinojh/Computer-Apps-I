@@ -1,1 +1,2 @@
 Items to fix
+Fix joy assignment
